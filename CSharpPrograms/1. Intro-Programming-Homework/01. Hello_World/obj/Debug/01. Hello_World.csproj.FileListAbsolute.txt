@@ -1,0 +1,6 @@
+D:\Homeworks_SU\1. Intro-Programming-Homework\01. Hello_World\bin\Debug\_01.Hello_World.exe.config
+D:\Homeworks_SU\1. Intro-Programming-Homework\01. Hello_World\bin\Debug\_01.Hello_World.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\01. Hello_World\bin\Debug\_01.Hello_World.pdb
+D:\Homeworks_SU\1. Intro-Programming-Homework\01. Hello_World\obj\Debug\01. Hello_World.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\1. Intro-Programming-Homework\01. Hello_World\obj\Debug\_01.Hello_World.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\01. Hello_World\obj\Debug\_01.Hello_World.pdb

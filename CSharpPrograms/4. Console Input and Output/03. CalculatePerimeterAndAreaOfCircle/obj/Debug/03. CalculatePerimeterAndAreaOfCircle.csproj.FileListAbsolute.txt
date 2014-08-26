@@ -1,0 +1,5 @@
+D:\Homeworks_SU\4. Console Input and Output\03. CalculatePerimeterAndAreaOfCircle\bin\Debug\_03.CalculatePerimeterAndAreaOfCircle.exe.config
+D:\Homeworks_SU\4. Console Input and Output\03. CalculatePerimeterAndAreaOfCircle\bin\Debug\_03.CalculatePerimeterAndAreaOfCircle.exe
+D:\Homeworks_SU\4. Console Input and Output\03. CalculatePerimeterAndAreaOfCircle\bin\Debug\_03.CalculatePerimeterAndAreaOfCircle.pdb
+D:\Homeworks_SU\4. Console Input and Output\03. CalculatePerimeterAndAreaOfCircle\obj\Debug\_03.CalculatePerimeterAndAreaOfCircle.exe
+D:\Homeworks_SU\4. Console Input and Output\03. CalculatePerimeterAndAreaOfCircle\obj\Debug\_03.CalculatePerimeterAndAreaOfCircle.pdb

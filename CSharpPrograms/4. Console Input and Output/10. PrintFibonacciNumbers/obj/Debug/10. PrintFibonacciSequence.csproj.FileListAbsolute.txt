@@ -1,0 +1,6 @@
+D:\Homeworks_SU\4. Console Input and Output\10. PrintFibonacciNumbers\bin\Debug\_10.PrintFibonacciNumbers.exe.config
+D:\Homeworks_SU\4. Console Input and Output\10. PrintFibonacciNumbers\bin\Debug\_10.PrintFibonacciNumbers.exe
+D:\Homeworks_SU\4. Console Input and Output\10. PrintFibonacciNumbers\bin\Debug\_10.PrintFibonacciNumbers.pdb
+D:\Homeworks_SU\4. Console Input and Output\10. PrintFibonacciNumbers\obj\Debug\10. PrintFibonacciSequence.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\4. Console Input and Output\10. PrintFibonacciNumbers\obj\Debug\_10.PrintFibonacciNumbers.exe
+D:\Homeworks_SU\4. Console Input and Output\10. PrintFibonacciNumbers\obj\Debug\_10.PrintFibonacciNumbers.pdb

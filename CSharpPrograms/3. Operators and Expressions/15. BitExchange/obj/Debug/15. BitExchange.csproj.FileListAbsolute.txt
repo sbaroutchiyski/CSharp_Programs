@@ -1,0 +1,5 @@
+D:\Homeworks_SU\3. Operators and Expressions\15. BitExchange\bin\Debug\_15.BitExchange.exe.config
+D:\Homeworks_SU\3. Operators and Expressions\15. BitExchange\bin\Debug\_15.BitExchange.exe
+D:\Homeworks_SU\3. Operators and Expressions\15. BitExchange\bin\Debug\_15.BitExchange.pdb
+D:\Homeworks_SU\3. Operators and Expressions\15. BitExchange\obj\Debug\_15.BitExchange.exe
+D:\Homeworks_SU\3. Operators and Expressions\15. BitExchange\obj\Debug\_15.BitExchange.pdb

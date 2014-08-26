@@ -1,0 +1,5 @@
+D:\Homeworks_SU\5. Conditional Statements\11. NumbersAsWords\bin\Debug\_11.NumbersAsWords.exe.config
+D:\Homeworks_SU\5. Conditional Statements\11. NumbersAsWords\bin\Debug\_11.NumbersAsWords.exe
+D:\Homeworks_SU\5. Conditional Statements\11. NumbersAsWords\bin\Debug\_11.NumbersAsWords.pdb
+D:\Homeworks_SU\5. Conditional Statements\11. NumbersAsWords\obj\Debug\_11.NumbersAsWords.exe
+D:\Homeworks_SU\5. Conditional Statements\11. NumbersAsWords\obj\Debug\_11.NumbersAsWords.pdb

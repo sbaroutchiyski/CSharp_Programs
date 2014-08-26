@@ -1,0 +1,5 @@
+D:\Homeworks_SU\1. Intro-Programming-Homework\08. PrintCurrenDateAndTime\bin\Debug\_08.PrintCurrenDateAndTime.exe.config
+D:\Homeworks_SU\1. Intro-Programming-Homework\08. PrintCurrenDateAndTime\bin\Debug\_08.PrintCurrenDateAndTime.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\08. PrintCurrenDateAndTime\bin\Debug\_08.PrintCurrenDateAndTime.pdb
+D:\Homeworks_SU\1. Intro-Programming-Homework\08. PrintCurrenDateAndTime\obj\Debug\_08.PrintCurrenDateAndTime.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\08. PrintCurrenDateAndTime\obj\Debug\_08.PrintCurrenDateAndTime.pdb

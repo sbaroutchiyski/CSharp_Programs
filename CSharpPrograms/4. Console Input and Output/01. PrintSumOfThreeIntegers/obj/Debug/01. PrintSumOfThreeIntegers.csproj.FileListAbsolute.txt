@@ -1,0 +1,6 @@
+D:\Homeworks_SU\4. Console Input and Output\01. PrintSumOfThreeIntegers\bin\Debug\_01.PrintSumOfThreeIntegers.exe.config
+D:\Homeworks_SU\4. Console Input and Output\01. PrintSumOfThreeIntegers\bin\Debug\_01.PrintSumOfThreeIntegers.exe
+D:\Homeworks_SU\4. Console Input and Output\01. PrintSumOfThreeIntegers\bin\Debug\_01.PrintSumOfThreeIntegers.pdb
+D:\Homeworks_SU\4. Console Input and Output\01. PrintSumOfThreeIntegers\obj\Debug\01. PrintSumOfThreeIntegers.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\4. Console Input and Output\01. PrintSumOfThreeIntegers\obj\Debug\_01.PrintSumOfThreeIntegers.exe
+D:\Homeworks_SU\4. Console Input and Output\01. PrintSumOfThreeIntegers\obj\Debug\_01.PrintSumOfThreeIntegers.pdb

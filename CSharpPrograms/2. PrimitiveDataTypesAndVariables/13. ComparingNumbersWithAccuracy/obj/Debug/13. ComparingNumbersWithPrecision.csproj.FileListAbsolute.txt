@@ -1,0 +1,5 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\13. ComparingNumbersWithAccuracy\bin\Debug\_13.ComparingNumbersWithAccuracy.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\13. ComparingNumbersWithAccuracy\bin\Debug\_13.ComparingNumbersWithAccuracy.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\13. ComparingNumbersWithAccuracy\bin\Debug\_13.ComparingNumbersWithAccuracy.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\13. ComparingNumbersWithAccuracy\obj\Debug\_13.ComparingNumbersWithAccuracy.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\13. ComparingNumbersWithAccuracy\obj\Debug\_13.ComparingNumbersWithAccuracy.pdb

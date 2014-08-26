@@ -1,0 +1,6 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\01. PrintAppropriateDataTypes\bin\Debug\_01.PrintAppropriateDataTypes.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\01. PrintAppropriateDataTypes\bin\Debug\_01.PrintAppropriateDataTypes.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\01. PrintAppropriateDataTypes\bin\Debug\_01.PrintAppropriateDataTypes.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\01. PrintAppropriateDataTypes\obj\Debug\01. PrintAppropriateDataTypes.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\01. PrintAppropriateDataTypes\obj\Debug\_01.PrintAppropriateDataTypes.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\01. PrintAppropriateDataTypes\obj\Debug\_01.PrintAppropriateDataTypes.pdb

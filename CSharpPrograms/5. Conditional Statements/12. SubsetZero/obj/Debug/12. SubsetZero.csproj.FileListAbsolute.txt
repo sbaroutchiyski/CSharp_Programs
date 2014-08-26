@@ -1,0 +1,5 @@
+D:\Homeworks_SU\5. Conditional Statements\12. SubsetZero\bin\Debug\_12.SubsetZero.exe.config
+D:\Homeworks_SU\5. Conditional Statements\12. SubsetZero\bin\Debug\_12.SubsetZero.exe
+D:\Homeworks_SU\5. Conditional Statements\12. SubsetZero\bin\Debug\_12.SubsetZero.pdb
+D:\Homeworks_SU\5. Conditional Statements\12. SubsetZero\obj\Debug\_12.SubsetZero.exe
+D:\Homeworks_SU\5. Conditional Statements\12. SubsetZero\obj\Debug\_12.SubsetZero.pdb

@@ -1,0 +1,1 @@
+D:\Homeworks_SU\4. Console Input and Output\10. PrintFibonacciNumbers\bin\Debug\_10.PrintFibonacciNumbers.exe.config

@@ -1,0 +1,5 @@
+D:\Homeworks_SU\6. Loops\04. PrintAllCardsFromStandardDeck\bin\Debug\_04.PrintAllCardsFromStandardDeck.exe.config
+D:\Homeworks_SU\6. Loops\04. PrintAllCardsFromStandardDeck\bin\Debug\_04.PrintAllCardsFromStandardDeck.exe
+D:\Homeworks_SU\6. Loops\04. PrintAllCardsFromStandardDeck\bin\Debug\_04.PrintAllCardsFromStandardDeck.pdb
+D:\Homeworks_SU\6. Loops\04. PrintAllCardsFromStandardDeck\obj\Debug\_04.PrintAllCardsFromStandardDeck.exe
+D:\Homeworks_SU\6. Loops\04. PrintAllCardsFromStandardDeck\obj\Debug\_04.PrintAllCardsFromStandardDeck.pdb

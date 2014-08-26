@@ -1,0 +1,5 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\05. PrintMyGender\bin\Debug\_05.PrintMyGender.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\05. PrintMyGender\bin\Debug\_05.PrintMyGender.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\05. PrintMyGender\bin\Debug\_05.PrintMyGender.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\05. PrintMyGender\obj\Debug\_05.PrintMyGender.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\05. PrintMyGender\obj\Debug\_05.PrintMyGender.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks_SU\1. Intro-Programming-Homework\10. PrintLongSequence\bin\Debug\_10.PrintLongSequence.exe.config
+D:\Homeworks_SU\1. Intro-Programming-Homework\10. PrintLongSequence\bin\Debug\_10.PrintLongSequence.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\10. PrintLongSequence\bin\Debug\_10.PrintLongSequence.pdb
+D:\Homeworks_SU\1. Intro-Programming-Homework\10. PrintLongSequence\obj\Debug\10. PrintLongSequence.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\1. Intro-Programming-Homework\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\10. PrintLongSequence\obj\Debug\_10.PrintLongSequence.pdb

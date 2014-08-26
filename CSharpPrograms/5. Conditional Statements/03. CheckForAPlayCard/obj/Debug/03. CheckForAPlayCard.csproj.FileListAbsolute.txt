@@ -1,0 +1,6 @@
+D:\Homeworks_SU\5. Conditional Statements\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.exe.config
+D:\Homeworks_SU\5. Conditional Statements\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.exe
+D:\Homeworks_SU\5. Conditional Statements\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.pdb
+D:\Homeworks_SU\5. Conditional Statements\03. CheckForAPlayCard\obj\Debug\03. CheckForAPlayCard.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\5. Conditional Statements\03. CheckForAPlayCard\obj\Debug\_03.CheckForAPlayCard.exe
+D:\Homeworks_SU\5. Conditional Statements\03. CheckForAPlayCard\obj\Debug\_03.CheckForAPlayCard.pdb

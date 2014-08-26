@@ -1,0 +1,5 @@
+D:\Homeworks_SU\5. Conditional Statements\10. PrintBeerTime\bin\Debug\_10.PrintBeerTime.exe.config
+D:\Homeworks_SU\5. Conditional Statements\10. PrintBeerTime\bin\Debug\_10.PrintBeerTime.exe
+D:\Homeworks_SU\5. Conditional Statements\10. PrintBeerTime\bin\Debug\_10.PrintBeerTime.pdb
+D:\Homeworks_SU\5. Conditional Statements\10. PrintBeerTime\obj\Debug\_10.PrintBeerTime.exe
+D:\Homeworks_SU\5. Conditional Statements\10. PrintBeerTime\obj\Debug\_10.PrintBeerTime.pdb

@@ -1,0 +1,5 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\10. MarketingFirmRecord\bin\Debug\_10.MarketingFirmRecord.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\10. MarketingFirmRecord\bin\Debug\_10.MarketingFirmRecord.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\10. MarketingFirmRecord\bin\Debug\_10.MarketingFirmRecord.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\10. MarketingFirmRecord\obj\Debug\_10.MarketingFirmRecord.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\10. MarketingFirmRecord\obj\Debug\_10.MarketingFirmRecord.pdb

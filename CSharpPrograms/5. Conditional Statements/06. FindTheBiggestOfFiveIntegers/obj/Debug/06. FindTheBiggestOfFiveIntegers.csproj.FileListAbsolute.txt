@@ -1,0 +1,1 @@
+D:\Homeworks_SU\5. Conditional Statements\06. FindTheBiggestOfFiveIntegers\bin\Debug\_06.FindTheBiggestOfFiveIntegers.exe.config

@@ -1,0 +1,5 @@
+D:\Homeworks_SU\5. Conditional Statements\04. FindTheBiggestOfThreeNumbers\bin\Debug\_04.FindTheBiggestOfThreeNumbers.exe.config
+D:\Homeworks_SU\5. Conditional Statements\04. FindTheBiggestOfThreeNumbers\bin\Debug\_04.FindTheBiggestOfThreeNumbers.exe
+D:\Homeworks_SU\5. Conditional Statements\04. FindTheBiggestOfThreeNumbers\bin\Debug\_04.FindTheBiggestOfThreeNumbers.pdb
+D:\Homeworks_SU\5. Conditional Statements\04. FindTheBiggestOfThreeNumbers\obj\Debug\_04.FindTheBiggestOfThreeNumbers.exe
+D:\Homeworks_SU\5. Conditional Statements\04. FindTheBiggestOfThreeNumbers\obj\Debug\_04.FindTheBiggestOfThreeNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks_SU\3. Operators and Expressions\06. NumberTransformation\bin\Debug\_06.NumberTransformation.exe.config
+D:\Homeworks_SU\3. Operators and Expressions\06. NumberTransformation\bin\Debug\_06.NumberTransformation.exe
+D:\Homeworks_SU\3. Operators and Expressions\06. NumberTransformation\bin\Debug\_06.NumberTransformation.pdb
+D:\Homeworks_SU\3. Operators and Expressions\06. NumberTransformation\obj\Debug\06. NumberTransformation.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\3. Operators and Expressions\06. NumberTransformation\obj\Debug\_06.NumberTransformation.exe
+D:\Homeworks_SU\3. Operators and Expressions\06. NumberTransformation\obj\Debug\_06.NumberTransformation.pdb

@@ -1,0 +1,3 @@
+D:\Homeworks_SU\6. Loops\11. RandomNumbersInGivemRange\bin\Debug\_11.RandomNumbersInGivemRange.exe.config
+D:\Homeworks_SU\6. Loops\11. RandomNumbersInGivemRange\obj\Debug\_11.RandomNumbersInGivemRange.exe
+D:\Homeworks_SU\6. Loops\11. RandomNumbersInGivemRange\obj\Debug\_11.RandomNumbersInGivemRange.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks_SU\4. Console Input and Output\12. FallingRocksGame\bin\Debug\_12.FallingRocksGame.exe.config
+D:\Homeworks_SU\4. Console Input and Output\12. FallingRocksGame\bin\Debug\_12.FallingRocksGame.exe
+D:\Homeworks_SU\4. Console Input and Output\12. FallingRocksGame\bin\Debug\_12.FallingRocksGame.pdb
+D:\Homeworks_SU\4. Console Input and Output\12. FallingRocksGame\obj\Debug\12. FallingRocksGame.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\4. Console Input and Output\12. FallingRocksGame\obj\Debug\_12.FallingRocksGame.exe
+D:\Homeworks_SU\4. Console Input and Output\12. FallingRocksGame\obj\Debug\_12.FallingRocksGame.pdb

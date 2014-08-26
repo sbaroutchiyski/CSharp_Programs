@@ -1,0 +1,6 @@
+D:\Homeworks_SU\6. Loops\05. CalculateSumOfFactorials\bin\Debug\_05.CalculateSumOfFactorials.exe.config
+D:\Homeworks_SU\6. Loops\05. CalculateSumOfFactorials\bin\Debug\_05.CalculateSumOfFactorials.exe
+D:\Homeworks_SU\6. Loops\05. CalculateSumOfFactorials\bin\Debug\_05.CalculateSumOfFactorials.pdb
+D:\Homeworks_SU\6. Loops\05. CalculateSumOfFactorials\obj\Debug\05. CalculateSumOfFactorials.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\6. Loops\05. CalculateSumOfFactorials\obj\Debug\_05.CalculateSumOfFactorials.exe
+D:\Homeworks_SU\6. Loops\05. CalculateSumOfFactorials\obj\Debug\_05.CalculateSumOfFactorials.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks_SU\6. Loops\01. PrintNumbersFromOneToN\bin\Debug\_01.PrintNumbersFromOneToN.exe.config
+D:\Homeworks_SU\6. Loops\01. PrintNumbersFromOneToN\obj\Debug\01. PrintNumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\6. Loops\01. PrintNumbersFromOneToN\bin\Debug\_01.PrintNumbersFromOneToN.exe
+D:\Homeworks_SU\6. Loops\01. PrintNumbersFromOneToN\bin\Debug\_01.PrintNumbersFromOneToN.pdb
+D:\Homeworks_SU\6. Loops\01. PrintNumbersFromOneToN\obj\Debug\_01.PrintNumbersFromOneToN.exe
+D:\Homeworks_SU\6. Loops\01. PrintNumbersFromOneToN\obj\Debug\_01.PrintNumbersFromOneToN.pdb

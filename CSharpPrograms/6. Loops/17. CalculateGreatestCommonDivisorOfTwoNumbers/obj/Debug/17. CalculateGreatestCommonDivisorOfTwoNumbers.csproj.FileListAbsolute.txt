@@ -1,0 +1,5 @@
+D:\Homeworks_SU\6. Loops\17. CalculateGreatestCommonDivisorOfTwoNumbers\bin\Debug\_17.CalculateGreatestCommonDivisorOfTwoNumbers.exe.config
+D:\Homeworks_SU\6. Loops\17. CalculateGreatestCommonDivisorOfTwoNumbers\bin\Debug\_17.CalculateGreatestCommonDivisorOfTwoNumbers.exe
+D:\Homeworks_SU\6. Loops\17. CalculateGreatestCommonDivisorOfTwoNumbers\bin\Debug\_17.CalculateGreatestCommonDivisorOfTwoNumbers.pdb
+D:\Homeworks_SU\6. Loops\17. CalculateGreatestCommonDivisorOfTwoNumbers\obj\Debug\_17.CalculateGreatestCommonDivisorOfTwoNumbers.exe
+D:\Homeworks_SU\6. Loops\17. CalculateGreatestCommonDivisorOfTwoNumbers\obj\Debug\_17.CalculateGreatestCommonDivisorOfTwoNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\03. NumberInHexadecimalFormat\bin\Debug\_03.NumberInHexadecimalFormat.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\03. NumberInHexadecimalFormat\bin\Debug\_03.NumberInHexadecimalFormat.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\03. NumberInHexadecimalFormat\bin\Debug\_03.NumberInHexadecimalFormat.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\03. NumberInHexadecimalFormat\obj\Debug\_03.NumberInHexadecimalFormat.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\03. NumberInHexadecimalFormat\obj\Debug\_03.NumberInHexadecimalFormat.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\03. NumberInHexadecimalFormat\obj\Debug\03. NumberInHexadecimalFormat.csprojResolveAssemblyReference.cache

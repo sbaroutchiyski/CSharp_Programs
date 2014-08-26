@@ -1,0 +1,1 @@
+D:\Homeworks_SU\6. Loops\03. PrintMinMaxSumAvearage\bin\Debug\_03.PrintMinMaxSumAvearage.exe.config

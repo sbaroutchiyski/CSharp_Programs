@@ -1,0 +1,5 @@
+D:\Homeworks_SU\4. Console Input and Output\07. PrintSumOfFiveNumbers\bin\Debug\_07.PrintSumOfFiveNumbers.exe.config
+D:\Homeworks_SU\4. Console Input and Output\07. PrintSumOfFiveNumbers\bin\Debug\_07.PrintSumOfFiveNumbers.exe
+D:\Homeworks_SU\4. Console Input and Output\07. PrintSumOfFiveNumbers\bin\Debug\_07.PrintSumOfFiveNumbers.pdb
+D:\Homeworks_SU\4. Console Input and Output\07. PrintSumOfFiveNumbers\obj\Debug\_07.PrintSumOfFiveNumbers.exe
+D:\Homeworks_SU\4. Console Input and Output\07. PrintSumOfFiveNumbers\obj\Debug\_07.PrintSumOfFiveNumbers.pdb

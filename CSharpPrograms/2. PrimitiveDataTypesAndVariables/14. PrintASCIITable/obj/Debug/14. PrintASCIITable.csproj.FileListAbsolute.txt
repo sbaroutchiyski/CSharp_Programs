@@ -1,0 +1,5 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\14. PrintASCIITable\bin\Debug\_14.PrintASCIITable.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\14. PrintASCIITable\bin\Debug\_14.PrintASCIITable.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\14. PrintASCIITable\bin\Debug\_14.PrintASCIITable.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\14. PrintASCIITable\obj\Debug\_14.PrintASCIITable.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\14. PrintASCIITable\obj\Debug\_14.PrintASCIITable.pdb

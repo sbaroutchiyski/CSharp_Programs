@@ -1,0 +1,6 @@
+D:\Homeworks_SU\5. Conditional Statements\02. BonusScoreOfDigits\bin\Debug\_02.BonusScoreOfDigits.exe.config
+D:\Homeworks_SU\5. Conditional Statements\02. BonusScoreOfDigits\bin\Debug\_02.BonusScoreOfDigits.exe
+D:\Homeworks_SU\5. Conditional Statements\02. BonusScoreOfDigits\bin\Debug\_02.BonusScoreOfDigits.pdb
+D:\Homeworks_SU\5. Conditional Statements\02. BonusScoreOfDigits\obj\Debug\02. BonusScoreOfDigits.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\5. Conditional Statements\02. BonusScoreOfDigits\obj\Debug\_02.BonusScoreOfDigits.exe
+D:\Homeworks_SU\5. Conditional Statements\02. BonusScoreOfDigits\obj\Debug\_02.BonusScoreOfDigits.pdb

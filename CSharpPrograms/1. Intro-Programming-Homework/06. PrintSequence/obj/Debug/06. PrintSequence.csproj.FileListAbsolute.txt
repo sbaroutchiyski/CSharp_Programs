@@ -1,0 +1,5 @@
+D:\Homeworks_SU\1. Intro-Programming-Homework\06. PrintSequence\bin\Debug\_06.PrintSequence.exe.config
+D:\Homeworks_SU\1. Intro-Programming-Homework\06. PrintSequence\bin\Debug\_06.PrintSequence.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\06. PrintSequence\bin\Debug\_06.PrintSequence.pdb
+D:\Homeworks_SU\1. Intro-Programming-Homework\06. PrintSequence\obj\Debug\_06.PrintSequence.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\06. PrintSequence\obj\Debug\_06.PrintSequence.pdb

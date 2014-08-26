@@ -1,0 +1,5 @@
+D:\Homeworks_SU\5. Conditional Statements\09. PlayWithDifferentTypes\bin\Debug\_09.PlayWithDifferentTypes.exe.config
+D:\Homeworks_SU\5. Conditional Statements\09. PlayWithDifferentTypes\bin\Debug\_09.PlayWithDifferentTypes.exe
+D:\Homeworks_SU\5. Conditional Statements\09. PlayWithDifferentTypes\bin\Debug\_09.PlayWithDifferentTypes.pdb
+D:\Homeworks_SU\5. Conditional Statements\09. PlayWithDifferentTypes\obj\Debug\_09.PlayWithDifferentTypes.exe
+D:\Homeworks_SU\5. Conditional Statements\09. PlayWithDifferentTypes\obj\Debug\_09.PlayWithDifferentTypes.pdb

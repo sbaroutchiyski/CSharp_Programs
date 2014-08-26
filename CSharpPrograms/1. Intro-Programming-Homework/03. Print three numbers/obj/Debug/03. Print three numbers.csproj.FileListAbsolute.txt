@@ -1,0 +1,5 @@
+D:\Homeworks_SU\1. Intro-Programming-Homework\03. Print three numbers\bin\Debug\_03.Print_three_numbers.exe.config
+D:\Homeworks_SU\1. Intro-Programming-Homework\03. Print three numbers\bin\Debug\_03.Print_three_numbers.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\03. Print three numbers\bin\Debug\_03.Print_three_numbers.pdb
+D:\Homeworks_SU\1. Intro-Programming-Homework\03. Print three numbers\obj\Debug\_03.Print_three_numbers.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\03. Print three numbers\obj\Debug\_03.Print_three_numbers.pdb

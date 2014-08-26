@@ -1,0 +1,5 @@
+D:\Homeworks_SU\1. Intro-Programming-Homework\05. PrintSquareRoot\bin\Debug\_05.PrintSquareRoot.exe.config
+D:\Homeworks_SU\1. Intro-Programming-Homework\05. PrintSquareRoot\bin\Debug\_05.PrintSquareRoot.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\05. PrintSquareRoot\bin\Debug\_05.PrintSquareRoot.pdb
+D:\Homeworks_SU\1. Intro-Programming-Homework\05. PrintSquareRoot\obj\Debug\_05.PrintSquareRoot.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\05. PrintSquareRoot\obj\Debug\_05.PrintSquareRoot.pdb

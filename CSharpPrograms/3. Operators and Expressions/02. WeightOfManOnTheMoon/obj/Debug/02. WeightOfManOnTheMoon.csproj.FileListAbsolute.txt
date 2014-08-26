@@ -1,0 +1,5 @@
+D:\Homeworks_SU\3. Operators and Expressions\02. WeightOfManOnTheMoon\bin\Debug\_02.WeightOfManOnTheMoon.exe.config
+D:\Homeworks_SU\3. Operators and Expressions\02. WeightOfManOnTheMoon\bin\Debug\_02.WeightOfManOnTheMoon.exe
+D:\Homeworks_SU\3. Operators and Expressions\02. WeightOfManOnTheMoon\bin\Debug\_02.WeightOfManOnTheMoon.pdb
+D:\Homeworks_SU\3. Operators and Expressions\02. WeightOfManOnTheMoon\obj\Debug\_02.WeightOfManOnTheMoon.exe
+D:\Homeworks_SU\3. Operators and Expressions\02. WeightOfManOnTheMoon\obj\Debug\_02.WeightOfManOnTheMoon.pdb

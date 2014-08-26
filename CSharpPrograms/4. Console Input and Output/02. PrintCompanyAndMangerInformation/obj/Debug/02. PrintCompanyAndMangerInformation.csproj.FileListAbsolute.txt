@@ -1,0 +1,5 @@
+D:\Homeworks_SU\4. Console Input and Output\02. PrintCompanyAndMangerInformation\bin\Debug\_02.PrintCompanyAndMangerInformation.exe.config
+D:\Homeworks_SU\4. Console Input and Output\02. PrintCompanyAndMangerInformation\bin\Debug\_02.PrintCompanyAndMangerInformation.exe
+D:\Homeworks_SU\4. Console Input and Output\02. PrintCompanyAndMangerInformation\bin\Debug\_02.PrintCompanyAndMangerInformation.pdb
+D:\Homeworks_SU\4. Console Input and Output\02. PrintCompanyAndMangerInformation\obj\Debug\_02.PrintCompanyAndMangerInformation.exe
+D:\Homeworks_SU\4. Console Input and Output\02. PrintCompanyAndMangerInformation\obj\Debug\_02.PrintCompanyAndMangerInformation.pdb

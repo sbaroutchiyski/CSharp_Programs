@@ -1,0 +1,5 @@
+D:\Homeworks_SU\3. Operators and Expressions\05. CheckIntegerThirdDigit\bin\Debug\_05.CheckIntegerThirdDigit.exe.config
+D:\Homeworks_SU\3. Operators and Expressions\05. CheckIntegerThirdDigit\bin\Debug\_05.CheckIntegerThirdDigit.exe
+D:\Homeworks_SU\3. Operators and Expressions\05. CheckIntegerThirdDigit\bin\Debug\_05.CheckIntegerThirdDigit.pdb
+D:\Homeworks_SU\3. Operators and Expressions\05. CheckIntegerThirdDigit\obj\Debug\_05.CheckIntegerThirdDigit.exe
+D:\Homeworks_SU\3. Operators and Expressions\05. CheckIntegerThirdDigit\obj\Debug\_05.CheckIntegerThirdDigit.pdb

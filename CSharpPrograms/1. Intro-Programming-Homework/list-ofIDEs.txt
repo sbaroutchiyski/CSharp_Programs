@@ -1,0 +1,27 @@
+LIST OF INTEGRATED DEVELOPMENT ENVIRONMENT
+
+
+
+
+
+1. Eclipse
+
+      Eclipse is free open source IDE which specializes in heavy Java development.
+It has almost all the features that an advance IDE needs. Though being specialized in java it also supports   C, C++,Python, using plug-ins. It is built on its own GUI library. Third-parties have embraced it for its performance while coding in Java but when it comes to other languages because of its heavy and complicated interface it takes a backstep.
+
+2. NetBeans 
+
+      NetBeans is free open source IDE from the Sun Microsystems. This is the number one alternative to Eclipse. The IDE has an excellent GUI designer. It include syntax highlighting and supports quite many languagues.
+
+3. Monodevelop 
+
+      Monodevelop is an IDE primarily designed for C# and other .NET languages. MonoDevelop enables developers to quickly write desktop and ASP.NET Web applications .With its features like integrated debugger, code completion for C,C# & being easily customizable   this IDE is quite easy to work on.
+
+4. Aptana Studio 
+
+      Aptana Studio supports JAVA,HTML,CSS etc…It has the features like code completion ,outlining, Javascript Debugging, error and warning notification and integrated documentation .Aptana Studio is based on Eclipse and is available as standalone on Windows ,Mac & linux, or as a plug-in for Eclipse.
+
+5. Qt Creator 
+
+      Qt Creator allows developers to create applications for multiple desktop and mobile device platforms. It has  a visual debugger and an integrated GUI layout,forms designer, syntax highlighting and autocompletion.Predominantly used for C and C#.
+

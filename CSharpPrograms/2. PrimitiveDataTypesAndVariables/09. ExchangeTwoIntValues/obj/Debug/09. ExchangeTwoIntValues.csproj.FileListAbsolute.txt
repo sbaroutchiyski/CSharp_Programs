@@ -1,0 +1,5 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\09. ExchangeTwoIntValues\bin\Debug\_09.ExchangeTwoIntValues.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\09. ExchangeTwoIntValues\bin\Debug\_09.ExchangeTwoIntValues.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\09. ExchangeTwoIntValues\bin\Debug\_09.ExchangeTwoIntValues.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\09. ExchangeTwoIntValues\obj\Debug\_09.ExchangeTwoIntValues.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\09. ExchangeTwoIntValues\obj\Debug\_09.ExchangeTwoIntValues.pdb

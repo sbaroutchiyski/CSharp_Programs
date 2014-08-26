@@ -1,0 +1,6 @@
+D:\Homeworks_SU\3. Operators and Expressions\12. ExtractRandomBitFromInteger\bin\Debug\_12.ExtractRandomBitFromInteger.exe.config
+D:\Homeworks_SU\3. Operators and Expressions\12. ExtractRandomBitFromInteger\bin\Debug\_12.ExtractRandomBitFromInteger.exe
+D:\Homeworks_SU\3. Operators and Expressions\12. ExtractRandomBitFromInteger\bin\Debug\_12.ExtractRandomBitFromInteger.pdb
+D:\Homeworks_SU\3. Operators and Expressions\12. ExtractRandomBitFromInteger\obj\Debug\12. ExtractRandomBitOfInteger.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\3. Operators and Expressions\12. ExtractRandomBitFromInteger\obj\Debug\_12.ExtractRandomBitFromInteger.exe
+D:\Homeworks_SU\3. Operators and Expressions\12. ExtractRandomBitFromInteger\obj\Debug\_12.ExtractRandomBitFromInteger.pdb

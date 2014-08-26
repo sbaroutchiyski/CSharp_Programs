@@ -1,0 +1,5 @@
+D:\Homeworks_SU\6. Loops\13. RandomizedNumbersFromOneToN\bin\Debug\_13.RandomizedNumbersFromOneToN.exe.config
+D:\Homeworks_SU\6. Loops\13. RandomizedNumbersFromOneToN\bin\Debug\_13.RandomizedNumbersFromOneToN.exe
+D:\Homeworks_SU\6. Loops\13. RandomizedNumbersFromOneToN\bin\Debug\_13.RandomizedNumbersFromOneToN.pdb
+D:\Homeworks_SU\6. Loops\13. RandomizedNumbersFromOneToN\obj\Debug\_13.RandomizedNumbersFromOneToN.exe
+D:\Homeworks_SU\6. Loops\13. RandomizedNumbersFromOneToN\obj\Debug\_13.RandomizedNumbersFromOneToN.pdb

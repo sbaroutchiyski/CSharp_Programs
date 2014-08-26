@@ -1,0 +1,10 @@
+D:\VS 2012 Projects\C# 2\Console Game - Teamwork\Teamwork Assignment (Team Jerry Mouse)\GAME Team Work\GameTeamWork\GameTeamWork\bin\Debug\GameTeamWork.exe
+D:\VS 2012 Projects\C# 2\Console Game - Teamwork\Teamwork Assignment (Team Jerry Mouse)\GAME Team Work\GameTeamWork\GameTeamWork\bin\Debug\GameTeamWork.pdb
+D:\VS 2012 Projects\C# 2\Console Game - Teamwork\Teamwork Assignment (Team Jerry Mouse)\GAME Team Work\GameTeamWork\GameTeamWork\obj\Debug\GalaxianConsoleGame.csprojResolveAssemblyReference.cache
+D:\VS 2012 Projects\C# 2\Console Game - Teamwork\Teamwork Assignment (Team Jerry Mouse)\GAME Team Work\GameTeamWork\GameTeamWork\obj\Debug\GameTeamWork.exe
+D:\VS 2012 Projects\C# 2\Console Game - Teamwork\Teamwork Assignment (Team Jerry Mouse)\GAME Team Work\GameTeamWork\GameTeamWork\obj\Debug\GameTeamWork.pdb
+C:\Users\Svetoslav\Desktop\GameTeamWork\GameTeamWork\obj\Debug\GameTeamWork.exe
+C:\Users\Svetoslav\Desktop\GameTeamWork\GameTeamWork\obj\Debug\GameTeamWork.pdb
+C:\Users\Svetoslav\Desktop\GameTeamWork\GameTeamWork\bin\Debug\GameTeamWork.exe
+C:\Users\Svetoslav\Desktop\GameTeamWork\GameTeamWork\bin\Debug\GameTeamWork.pdb
+C:\Users\Svetoslav\Desktop\GameTeamWork\GameTeamWork\obj\Debug\GalaxianConsoleGame.csprojResolveAssemblyReference.cache

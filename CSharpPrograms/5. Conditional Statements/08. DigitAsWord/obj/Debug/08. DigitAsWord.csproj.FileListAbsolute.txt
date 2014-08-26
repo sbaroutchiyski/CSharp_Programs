@@ -1,0 +1,6 @@
+D:\Homeworks_SU\5. Conditional Statements\08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe.config
+D:\Homeworks_SU\5. Conditional Statements\08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe
+D:\Homeworks_SU\5. Conditional Statements\08. DigitAsWord\bin\Debug\_08.DigitAsWord.pdb
+D:\Homeworks_SU\5. Conditional Statements\08. DigitAsWord\obj\Debug\08. DigitAsWord.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\5. Conditional Statements\08. DigitAsWord\obj\Debug\_08.DigitAsWord.exe
+D:\Homeworks_SU\5. Conditional Statements\08. DigitAsWord\obj\Debug\_08.DigitAsWord.pdb

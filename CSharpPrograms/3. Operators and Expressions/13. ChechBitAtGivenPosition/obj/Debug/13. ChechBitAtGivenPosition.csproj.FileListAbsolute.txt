@@ -1,0 +1,5 @@
+D:\Homeworks_SU\3. Operators and Expressions\13. ChechBitAtGivenPosition\bin\Debug\_13.ChechBitAtGivenPosition.exe.config
+D:\Homeworks_SU\3. Operators and Expressions\13. ChechBitAtGivenPosition\bin\Debug\_13.ChechBitAtGivenPosition.exe
+D:\Homeworks_SU\3. Operators and Expressions\13. ChechBitAtGivenPosition\bin\Debug\_13.ChechBitAtGivenPosition.pdb
+D:\Homeworks_SU\3. Operators and Expressions\13. ChechBitAtGivenPosition\obj\Debug\_13.ChechBitAtGivenPosition.exe
+D:\Homeworks_SU\3. Operators and Expressions\13. ChechBitAtGivenPosition\obj\Debug\_13.ChechBitAtGivenPosition.pdb

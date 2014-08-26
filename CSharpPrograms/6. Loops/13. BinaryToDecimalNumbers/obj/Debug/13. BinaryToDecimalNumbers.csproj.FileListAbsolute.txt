@@ -1,0 +1,6 @@
+D:\Homeworks_SU\6. Loops\13. BinaryToDecimalNumbers\bin\Debug\_13.BinaryToDecimalNumbers.exe.config
+D:\Homeworks_SU\6. Loops\13. BinaryToDecimalNumbers\bin\Debug\_13.BinaryToDecimalNumbers.exe
+D:\Homeworks_SU\6. Loops\13. BinaryToDecimalNumbers\bin\Debug\_13.BinaryToDecimalNumbers.pdb
+D:\Homeworks_SU\6. Loops\13. BinaryToDecimalNumbers\obj\Debug\13. BinaryToDecimalNumbers.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\6. Loops\13. BinaryToDecimalNumbers\obj\Debug\_13.BinaryToDecimalNumbers.exe
+D:\Homeworks_SU\6. Loops\13. BinaryToDecimalNumbers\obj\Debug\_13.BinaryToDecimalNumbers.pdb

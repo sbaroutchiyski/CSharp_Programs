@@ -1,0 +1,5 @@
+D:\Homeworks_SU\4. Console Input and Output\04. NumberComparer\bin\Debug\_04.NumberComparer.exe.config
+D:\Homeworks_SU\4. Console Input and Output\04. NumberComparer\bin\Debug\_04.NumberComparer.exe
+D:\Homeworks_SU\4. Console Input and Output\04. NumberComparer\bin\Debug\_04.NumberComparer.pdb
+D:\Homeworks_SU\4. Console Input and Output\04. NumberComparer\obj\Debug\_04.NumberComparer.exe
+D:\Homeworks_SU\4. Console Input and Output\04. NumberComparer\obj\Debug\_04.NumberComparer.pdb

@@ -1,0 +1,5 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\04. SymbolInUnicodeFormat\bin\Debug\_04.SymbolInUnicodeFormat.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\04. SymbolInUnicodeFormat\bin\Debug\_04.SymbolInUnicodeFormat.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\04. SymbolInUnicodeFormat\bin\Debug\_04.SymbolInUnicodeFormat.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\04. SymbolInUnicodeFormat\obj\Debug\_04.SymbolInUnicodeFormat.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\04. SymbolInUnicodeFormat\obj\Debug\_04.SymbolInUnicodeFormat.pdb

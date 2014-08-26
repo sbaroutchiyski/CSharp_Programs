@@ -1,0 +1,3 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\10. BankAccountExample\bin\Debug\_10.BankAccountExample.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\10. BankAccountExample\obj\Debug\_10.BankAccountExample.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\10. BankAccountExample\obj\Debug\_10.BankAccountExample.pdb

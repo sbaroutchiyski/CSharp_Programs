@@ -1,0 +1,5 @@
+D:\Homeworks_SU\6. Loops\19. PrintSpiralMatrix\bin\Debug\_19.PrintSpiralMatrix.exe.config
+D:\Homeworks_SU\6. Loops\19. PrintSpiralMatrix\bin\Debug\_19.PrintSpiralMatrix.exe
+D:\Homeworks_SU\6. Loops\19. PrintSpiralMatrix\bin\Debug\_19.PrintSpiralMatrix.pdb
+D:\Homeworks_SU\6. Loops\19. PrintSpiralMatrix\obj\Debug\_19.PrintSpiralMatrix.exe
+D:\Homeworks_SU\6. Loops\19. PrintSpiralMatrix\obj\Debug\_19.PrintSpiralMatrix.pdb

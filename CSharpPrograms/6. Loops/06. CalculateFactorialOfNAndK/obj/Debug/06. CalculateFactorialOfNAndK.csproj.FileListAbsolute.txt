@@ -1,0 +1,5 @@
+D:\Homeworks_SU\6. Loops\06. CalculateFactorialOfNAndK\bin\Debug\_06.CalculateFactorialOfNAndK.exe.config
+D:\Homeworks_SU\6. Loops\06. CalculateFactorialOfNAndK\bin\Debug\_06.CalculateFactorialOfNAndK.exe
+D:\Homeworks_SU\6. Loops\06. CalculateFactorialOfNAndK\bin\Debug\_06.CalculateFactorialOfNAndK.pdb
+D:\Homeworks_SU\6. Loops\06. CalculateFactorialOfNAndK\obj\Debug\_06.CalculateFactorialOfNAndK.exe
+D:\Homeworks_SU\6. Loops\06. CalculateFactorialOfNAndK\obj\Debug\_06.CalculateFactorialOfNAndK.pdb

@@ -1,0 +1,5 @@
+D:\Homeworks_SU\3. Operators and Expressions\07. CheckPointInToCircle\bin\Debug\_07.CheckPointInToCircle.exe.config
+D:\Homeworks_SU\3. Operators and Expressions\07. CheckPointInToCircle\bin\Debug\_07.CheckPointInToCircle.exe
+D:\Homeworks_SU\3. Operators and Expressions\07. CheckPointInToCircle\bin\Debug\_07.CheckPointInToCircle.pdb
+D:\Homeworks_SU\3. Operators and Expressions\07. CheckPointInToCircle\obj\Debug\_07.CheckPointInToCircle.exe
+D:\Homeworks_SU\3. Operators and Expressions\07. CheckPointInToCircle\obj\Debug\_07.CheckPointInToCircle.pdb

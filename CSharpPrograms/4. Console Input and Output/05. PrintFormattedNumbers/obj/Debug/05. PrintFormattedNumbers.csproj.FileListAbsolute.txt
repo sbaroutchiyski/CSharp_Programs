@@ -1,0 +1,6 @@
+D:\Homeworks_SU\4. Console Input and Output\05. PrintFormattedNumbers\bin\Debug\_05.PrintFormattedNumbers.exe.config
+D:\Homeworks_SU\4. Console Input and Output\05. PrintFormattedNumbers\bin\Debug\_05.PrintFormattedNumbers.exe
+D:\Homeworks_SU\4. Console Input and Output\05. PrintFormattedNumbers\bin\Debug\_05.PrintFormattedNumbers.pdb
+D:\Homeworks_SU\4. Console Input and Output\05. PrintFormattedNumbers\obj\Debug\05. PrintFormattedNumbers.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\4. Console Input and Output\05. PrintFormattedNumbers\obj\Debug\_05.PrintFormattedNumbers.exe
+D:\Homeworks_SU\4. Console Input and Output\05. PrintFormattedNumbers\obj\Debug\_05.PrintFormattedNumbers.pdb

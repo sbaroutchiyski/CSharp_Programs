@@ -1,0 +1,5 @@
+D:\Homeworks_SU\6. Loops\02. NumbersFromOneToNNotDivisibleByThreeAndSeven\bin\Debug\_02.NumbersFromOneToNNotDivisibleByThreeAndSeven.exe.config
+D:\Homeworks_SU\6. Loops\02. NumbersFromOneToNNotDivisibleByThreeAndSeven\bin\Debug\_02.NumbersFromOneToNNotDivisibleByThreeAndSeven.exe
+D:\Homeworks_SU\6. Loops\02. NumbersFromOneToNNotDivisibleByThreeAndSeven\bin\Debug\_02.NumbersFromOneToNNotDivisibleByThreeAndSeven.pdb
+D:\Homeworks_SU\6. Loops\02. NumbersFromOneToNNotDivisibleByThreeAndSeven\obj\Debug\_02.NumbersFromOneToNNotDivisibleByThreeAndSeven.exe
+D:\Homeworks_SU\6. Loops\02. NumbersFromOneToNNotDivisibleByThreeAndSeven\obj\Debug\_02.NumbersFromOneToNNotDivisibleByThreeAndSeven.pdb

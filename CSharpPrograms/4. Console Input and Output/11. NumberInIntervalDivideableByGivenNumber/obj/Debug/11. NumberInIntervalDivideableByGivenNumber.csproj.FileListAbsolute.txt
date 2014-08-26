@@ -1,0 +1,5 @@
+D:\Homeworks_SU\4. Console Input and Output\11. NumberInIntervalDivideableByGivenNumber\bin\Debug\_11.NumberInIntervalDivideableByGivenNumber.exe.config
+D:\Homeworks_SU\4. Console Input and Output\11. NumberInIntervalDivideableByGivenNumber\bin\Debug\_11.NumberInIntervalDivideableByGivenNumber.exe
+D:\Homeworks_SU\4. Console Input and Output\11. NumberInIntervalDivideableByGivenNumber\bin\Debug\_11.NumberInIntervalDivideableByGivenNumber.pdb
+D:\Homeworks_SU\4. Console Input and Output\11. NumberInIntervalDivideableByGivenNumber\obj\Debug\_11.NumberInIntervalDivideableByGivenNumber.exe
+D:\Homeworks_SU\4. Console Input and Output\11. NumberInIntervalDivideableByGivenNumber\obj\Debug\_11.NumberInIntervalDivideableByGivenNumber.pdb

@@ -1,0 +1,23 @@
+LIST OF POPULAR PROGRAMMING LANGUAGES
+
+
+   1. Java 
+
+   Java is Class-based, object-oriented programming language develop by Sun Microsystems in 1990s. It’s one of the most in-demand programming languages. Java is designed to work across multiple software platforms, meaning a program written on Mac OS X, for example, could also run on Windows.
+
+   2. C++ 
+
+   C++ is an intermediate-level language with object-oriented programming features, originally designed to enhance the C language. It’s used to develop system software, application software, high-performance server and client applications and video games
+
+   3. Objective-C 
+   
+   Objective-C is object-oriented programming language used by the Apple operating system. It powers Apple’s OS X and iOS, as well as its APIs, and can be used to create iPhone apps.
+
+   4. Python 
+
+   Python is a high-level, server-side scripting language for websites and mobile apps. It’s considered a fairly easy language for beginners due to its readability and compact syntax, meaning developers can use fewer line of code to express than they would in other languages.
+
+   5. JavaScript 
+
+   JavaScript is client and server-side scripting language developed by Netscape that derives much of its syntax from C. It can be used across multiple web browsers and is considered essential for developing interactive or animated web functions. It is also used in game development and writing desktop applications.
+

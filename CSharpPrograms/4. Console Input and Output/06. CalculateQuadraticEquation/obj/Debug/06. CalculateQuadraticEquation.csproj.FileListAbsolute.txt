@@ -1,0 +1,6 @@
+D:\Homeworks_SU\4. Console Input and Output\06. CalculateQuadraticEquation\bin\Debug\_06.CalculateQuadraticEquation.exe.config
+D:\Homeworks_SU\4. Console Input and Output\06. CalculateQuadraticEquation\bin\Debug\_06.CalculateQuadraticEquation.exe
+D:\Homeworks_SU\4. Console Input and Output\06. CalculateQuadraticEquation\bin\Debug\_06.CalculateQuadraticEquation.pdb
+D:\Homeworks_SU\4. Console Input and Output\06. CalculateQuadraticEquation\obj\Debug\06. CalculateQuadraticEquation.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\4. Console Input and Output\06. CalculateQuadraticEquation\obj\Debug\_06.CalculateQuadraticEquation.exe
+D:\Homeworks_SU\4. Console Input and Output\06. CalculateQuadraticEquation\obj\Debug\_06.CalculateQuadraticEquation.pdb

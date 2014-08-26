@@ -1,0 +1,6 @@
+D:\Homeworks_SU\3. Operators and Expressions\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.exe.config
+D:\Homeworks_SU\3. Operators and Expressions\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.exe
+D:\Homeworks_SU\3. Operators and Expressions\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.pdb
+D:\Homeworks_SU\3. Operators and Expressions\08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.exe
+D:\Homeworks_SU\3. Operators and Expressions\08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.pdb
+D:\Homeworks_SU\3. Operators and Expressions\08. PrimeNumberCheck\obj\Debug\08. PrimeNumberCheck.csprojResolveAssemblyReference.cache

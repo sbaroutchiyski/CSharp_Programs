@@ -1,0 +1,5 @@
+D:\Homeworks_SU\5. Conditional Statements\06. FindTheBiggestOfFiveIntegers\bin\Debug\_06.FindTheBiggestOfFiveIntegers.exe.config
+D:\Homeworks_SU\5. Conditional Statements\06. FindTheBiggestOfFiveIntegers\bin\Debug\_06.FindTheBiggestOfFiveIntegers.exe
+D:\Homeworks_SU\5. Conditional Statements\06. FindTheBiggestOfFiveIntegers\bin\Debug\_06.FindTheBiggestOfFiveIntegers.pdb
+D:\Homeworks_SU\5. Conditional Statements\06. FindTheBiggestOfFiveIntegers\obj\Debug\_06.FindTheBiggestOfFiveIntegers.exe
+D:\Homeworks_SU\5. Conditional Statements\06. FindTheBiggestOfFiveIntegers\obj\Debug\_06.FindTheBiggestOfFiveIntegers.pdb

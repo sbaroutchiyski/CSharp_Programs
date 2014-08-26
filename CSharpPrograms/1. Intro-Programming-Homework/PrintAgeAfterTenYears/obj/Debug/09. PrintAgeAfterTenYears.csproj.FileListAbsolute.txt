@@ -1,0 +1,6 @@
+D:\Homeworks_SU\1. Intro-Programming-Homework\PrintAgeAfterTenYears\bin\Debug\PrintAgeAfterTenYears.exe.config
+D:\Homeworks_SU\1. Intro-Programming-Homework\PrintAgeAfterTenYears\bin\Debug\PrintAgeAfterTenYears.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\PrintAgeAfterTenYears\bin\Debug\PrintAgeAfterTenYears.pdb
+D:\Homeworks_SU\1. Intro-Programming-Homework\PrintAgeAfterTenYears\obj\Debug\PrintAgeAfterTenYears.exe
+D:\Homeworks_SU\1. Intro-Programming-Homework\PrintAgeAfterTenYears\obj\Debug\PrintAgeAfterTenYears.pdb
+D:\Homeworks_SU\1. Intro-Programming-Homework\PrintAgeAfterTenYears\obj\Debug\09. PrintAgeAfterTenYears.csprojResolveAssemblyReference.cache

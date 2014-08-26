@@ -1,0 +1,6 @@
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\06. StringConcatenation\bin\Debug\_06.StringConcatenation.exe.config
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\06. StringConcatenation\bin\Debug\_06.StringConcatenation.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\06. StringConcatenation\bin\Debug\_06.StringConcatenation.pdb
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\06. StringConcatenation\obj\Debug\06. StringConcatenation.csprojResolveAssemblyReference.cache
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\06. StringConcatenation\obj\Debug\_06.StringConcatenation.exe
+D:\Homeworks_SU\2. PrimitiveDataTypesAndVariables\06. StringConcatenation\obj\Debug\_06.StringConcatenation.pdb

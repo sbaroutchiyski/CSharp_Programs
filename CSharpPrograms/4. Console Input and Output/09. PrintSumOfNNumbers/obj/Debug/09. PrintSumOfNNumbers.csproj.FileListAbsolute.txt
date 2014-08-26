@@ -1,0 +1,5 @@
+D:\Homeworks_SU\4. Console Input and Output\09. PrintSumOfNNumbers\bin\Debug\_09.PrintSumOfNNumbers.exe.config
+D:\Homeworks_SU\4. Console Input and Output\09. PrintSumOfNNumbers\bin\Debug\_09.PrintSumOfNNumbers.exe
+D:\Homeworks_SU\4. Console Input and Output\09. PrintSumOfNNumbers\bin\Debug\_09.PrintSumOfNNumbers.pdb
+D:\Homeworks_SU\4. Console Input and Output\09. PrintSumOfNNumbers\obj\Debug\_09.PrintSumOfNNumbers.exe
+D:\Homeworks_SU\4. Console Input and Output\09. PrintSumOfNNumbers\obj\Debug\_09.PrintSumOfNNumbers.pdb
